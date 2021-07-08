@@ -1,1 +1,6 @@
 twitter.txt
+example1/.bloop/*
+example1/.metals/*
+example1/.vscode/*
+example1/target/*
+example1/project/*
