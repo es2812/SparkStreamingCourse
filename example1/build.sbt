@@ -17,8 +17,6 @@ name := "hello-world"
 organization := "ch.epfl.scala"
 version := "1.0"
 
-mainClass in (Compile, run) := Some("com.sparkstreaming.PrintTweets")
-
 // Note, it's not required for you to define these three settings. These are
 // mostly only necessary if you intend to publish your library's binaries on a
 // place like Sonatype or Bintray.
